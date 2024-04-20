@@ -1,4 +1,4 @@
-![image](https://github.com/Frederikmh90/python_workshop/assets/67645182/4b7b2b31-e2c5-4c42-a2f2-dcac55850a34)# Programming Workshop: Introduction to 🐍 Python 🐍
+# Programming Workshop: Introduction to 🐍 Python 🐍
 Repository for Digital Media Lab's Programming Workshop: Introduction to Python, Spring 2024. Digital Media Lab is a hub for reserachers 
 
 ![image](https://github.com/Frederikmh90/python_workshop/assets/67645182/2b683e5b-5967-4470-99fb-7e6d6928d9fb)
