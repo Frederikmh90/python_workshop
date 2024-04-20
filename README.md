@@ -7,5 +7,5 @@ Repository for Digital Media Lab's Programming Workshop: Introduction to Python,
 3) Data scraping, use of AI for programming and simple data analysis
 4) Open workshop
 
-Teachers: Frederik Møller Henriksen and Jakob Bæk Kristensen
+Teachers: Frederik Møller Henriksen and Jakob Bæk Kristensen, Digital Media Lab
 
