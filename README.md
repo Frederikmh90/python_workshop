@@ -13,3 +13,15 @@ Repository for Digital Media Lab's Programming Workshop: Introduction to Python,
 Teachers: Frederik Møller Henriksen and Jakob Bæk Kristensen
 (Digital Media Lab, Roskilde University)
 
+**Ressources**
+General
+* https://github.com/vinta/awesome-python
+* https://github.com/gesiscss/awesome-computational-social-science?tab=readme-ov-file
+* https://www.aiforhumanists.com/
+* https://libguides.union.edu/digital-scholarship/cta
+
+
+Natural language processing
+* https://github.com/alexandrainst/danlp?tab=readme-ov-file (Danish NLP package)
+* https://huggingface.co/ (Open source platform)
+* https://github.com/MaartenGr/BERTopic (Topic modeling)
