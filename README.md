@@ -14,6 +14,7 @@ Teachers: Frederik Møller Henriksen and Jakob Bæk Kristensen
 (Digital Media Lab, Roskilde University)
 
 **Ressources**
+
 General
 * https://github.com/vinta/awesome-python
 * https://github.com/gesiscss/awesome-computational-social-science?tab=readme-ov-file
