@@ -26,3 +26,4 @@ Natural language processing
 * https://github.com/alexandrainst/danlp?tab=readme-ov-file (Danish NLP package)
 * https://huggingface.co/ (Open source platform)
 * https://github.com/MaartenGr/BERTopic (Topic modeling)
+* https://github.com/MoritzLaurer (Good tutorials for fine-tuning models, also in Scandinavian languages)
