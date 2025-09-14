@@ -13,7 +13,7 @@ Repository for Digital Media Lab's Programming Workshop: Introduction to Python,
 Teachers: Frederik Møller Henriksen and Jakob Bæk Kristensen
 (Digital Media Lab, Roskilde University)
 
-**Ressources**
+**Resources**
 
 General
 * https://github.com/vinta/awesome-python
